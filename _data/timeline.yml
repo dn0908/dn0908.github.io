@@ -1,17 +1,33 @@
-- title: Student, Harvard CS
-  from: 2014
-  to: 2018
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+- title: Graduate Researcher, Seoul National University Biorobotics Lab, KOR
+  from: 2023
+  to: Present
+  description: IMU-based robotic hip exoskeleton control system with human-in-the-loop optimization.
+               Simulation and LQR-based controller for quasi-direct drive jumping-driving robot.
 
-- title: Software Engineer, Google, UK
-  from: 2018
-  to: present
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+- title: Vex Robotics Instructor, Beyond Coding, KOR
+  from: 2024
+  to: 2024
+  description: Instructed VEX Robotics.
+
+- title: Undergraduate Researcher, Yonsei University School of Computing, KOR
+  from: 2023
+  to: 2023
+  description: Autonomous anomaly detection robot in manufacturing using multimodal DNN.
+               In-vehicle noise classification by ProtoNet-based few-shot learning and dynamic memory replay.
+
+- title: Research Intern, Korea Institude of Science and Technology (KIST), KOR
+  from: 2022
+  to: 2022
+  description: Vision-based complete blood count algorithm using image processing and deep learning.
+               Biological value estimation using optical microscope ray simulation and blood cell modeling.
+
+- title: Intern, Hyundai Motors Group, KOR
+  from: 2022
+  to: 2022
+  description: Robotics system software architecture development and patent assetization in HMGICS.
+
+- title: Undergraduate Research Intern, Yonsei University School of Mechanical Engineering, KOR
+  from: 2022
+  to: 2023
+  description: Feedback control system of hardware-twin robot arm by two-way remote communication
+               at the Manufacturing and Mechatronics Lab.
