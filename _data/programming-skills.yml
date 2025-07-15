@@ -4,12 +4,12 @@
 
 - name: Arduino
   percentage: 100
-  color: secondary
+  color: danger
 
 - name: C/C++
   percentage: 90
-  color: light
+  color: danger
 
 - name: ROS
   percentage: 100
-  color: secondary
+  color: danger

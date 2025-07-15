@@ -1,0 +1,43 @@
+[
+  
+    {
+      "title"    : "Excellent Teaching Assistant Award",
+      "category" : "",
+      "tags"     : "Teaching, Arduino, Mobile Manipulator",
+      "url"      : "/blog/Excellent-TA-Award",
+      "date"     : "2025-03-13 00:00:00 +0900"
+    } ,
+  
+    {
+      "title"    : "13th KSME Student Creative Design Competition Excellent Project Award",
+      "category" : "",
+      "tags"     : "CAD, Emergency Detection, System Design",
+      "url"      : "/blog/KSME-Creative-Design-Award",
+      "date"     : "2023-09-01 00:00:00 +0900"
+    } ,
+  
+    {
+      "title"    : "SAS Student Paper Award",
+      "category" : "",
+      "tags"     : "Continual Learning, Noise Classification, Episodic Memory",
+      "url"      : "/blog/SAS-Paper-Award",
+      "date"     : "2022-06-10 00:00:00 +0900"
+    } ,
+  
+    {
+      "title"    : "Seoul Software Academy (SeSAC) Excellent Project Award",
+      "category" : "",
+      "tags"     : "CAD, Emergency Detection, System Design",
+      "url"      : "/blog/SeSAC-Excellent-Project-Award",
+      "date"     : "2022-06-02 00:00:00 +0900"
+    } ,
+  
+    {
+      "title"    : "Creative Design Competition Grand Prize",
+      "category" : "",
+      "tags"     : "CAD, Emergency Detection, System Design",
+      "url"      : "/blog/Yonsei-Grand-Prize",
+      "date"     : "2022-06-01 00:00:00 +0900"
+    } 
+  
+]
