@@ -4,7 +4,7 @@
 
 - name: MATLAB & Simulink
   percentage: 95
-  color: light 
+  color: success 
 
 - name: FEMM
   percentage: 70
