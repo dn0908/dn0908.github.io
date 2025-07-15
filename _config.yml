@@ -26,8 +26,8 @@ nav_exclude:                                            # The following paths ar
 ### Author Info ###
 author:
   name              : Diana Nam
-  image             : https://i.imgur.com/uyDNQnn.jpg
-  behance           : your_username
+  image             : /assets/img/profile.png
+  # behance           : your_username
 # dribbble          : your_username
   email             : diana_nam@snu.ac.kr
   # facebook          : your_username

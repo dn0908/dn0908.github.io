@@ -1,7 +1,11 @@
-- name: Adobe Photoshop
-  percentage: 95
+- name: CAD (Creo, Solidworks, AutoCAD, Fusion360, Onshape, Autodesk Inventor)
+  percentage: 100
   color: info
 
-- name: Adobe Illustrator
-  percentage: 90
+- name: MATLAB & Simulink
+  percentage: 95
+  color: light 
+
+- name: FEMM
+  percentage: 70
   color: success
