@@ -21,12 +21,12 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   <meta property="og:type" content="website">
-  <meta property="og:title" content="The Fabulous">
-  <meta property="og:description" content="Fabulous is a science-based app, incubated in Duke's Behavioral Economics Lab, that will help you build healthy rituals into your life, just like an elite at...">
-  <meta property="og:image" content="https://storage.googleapis.com/gd-wagtail-prod-assets/original_images/material_design_awards_inline_002.jpg">
+  <meta property="og:title" content="Theo Jansen Autonomous Robot">
+  <meta property="og:description" content="Designed and Developed Autonomous Legged Robot using Theo Jansen Linkage">
+  <meta property="og:image" content="/assets/img/theojansen.png">
 
-  <title>The Fabulous</title>
-  <meta name="description" content="Fabulous is a science-based app, incubated in Duke's Behavioral Economics Lab, that will help you build healthy rituals into your life, just like an elite at...">
+  <title>Theo Jansen Autonomous Robot</title>
+  <meta name="description" content="Designed and Developed Autonomous Legged Robot using Theo Jansen Linkage">
 
   <link rel="shortcut icon" type="image/x-icon" href="/assets/favicon.ico">
 
@@ -53,7 +53,7 @@
   <main class="flex-shrink-0 container mt-5">
     <nav class="navbar navbar-expand-lg navbar-themed">
 
-  <a class="navbar-brand" href="/"><h5><b>Dahyun Nam</b></h5></a>
+  <a class="navbar-brand" href="/"><h5><b>Dahyun Diana Nam</b></h5></a>
 
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
     <i class="fas fa-1x fa-bars text-themed"></i>
@@ -66,6 +66,8 @@
 
       <a class="nav-item nav-link " href="/blog/">Awards</a>
 
+      <a class="nav-item nav-link " href="/publications/">Publications</a>
+
       <a class="nav-item nav-link " href="/cv/">CV</a>
 
       
@@ -76,7 +78,25 @@
 
 </nav>
     <div class="col-lg-10 mx-auto mt-5 markdown-body">
-  
+  <h2 id="autonomous-legged-robot-using-theo-jansen-linkage">Autonomous Legged Robot using Theo Jansen Linkage</h2>
+<h3 id="ㅤ">ㅤ</h3>
+
+<p>As a part of a robot project during my undergraduate course, I made a Theo Jansen linkage-based legged robot and participated in a self-driving challenge. I designed the linkage using simulation, fabricated the robot by myself and programmed the software for the challenge.</p>
+<h3 id="ㅤ-1">ㅤ</h3>
+
+<h3 id="1-simulation-and-modeling-of-jansen-mechanism">1. Simulation and Modeling of Jansen Mechanism</h3>
+
+<p>Using V-REP Simulation, I modelled different types of linkage that can be used for a legged robot and did parameter studies in different leg, motor and frame properties.</p>
+
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/1yakNY1jaRg?si=yN4dxsv4NL9vaxbXautoplay=1&amp;mute=1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen="">
+</iframe>
+
+<p>I found the possible best case of parameters and designed the leg mechanism according to it. And using carbon rods for the legs axes and FDM printed parts, I assembled the robot.
+<img src="/assets/img/jansendesign.png" alt="Robot-design" style="width:100%;" /></p>
+
+<h3 id="ㅤ-2">ㅤ</h3>
+<h3 id="2-self-driving-algorithm-using-lane-and-obstacle-detection">2. Self-Driving Algorithm using Lane and Obstacle detection</h3>
+<p>Using the legged robot, I designed Self-Driving Algorithm using Lane and Obstacle detection using Python OpenCV and Cascade Classifier.</p>
 
 </div>
   </main>
@@ -87,7 +107,7 @@
     by <strong>Diana Nam</strong>
   </small>
 
-  <div class="container-fluid justify-content-center"><a class="social mx-1"  href="mailto:diana_nam@snu.ac.kr"
+  <!-- <div class="container-fluid justify-content-center"><a class="social mx-1"  href="mailto:diana_nam@snu.ac.kr"
        style="color: #6c757d"
        onMouseOver="this.style.color='#db4437'"
        onMouseOut="this.style.color='#6c757d'">
@@ -101,7 +121,7 @@
 
 </div><small id="attribution">
     theme <a href="https://github.com/yousinix/portfolYOU">portfolYOU</a>
-  </small>
+  </small> -->
 
 </footer>
 

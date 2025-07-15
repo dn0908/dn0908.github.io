@@ -7,6 +7,8 @@ weight: 1
 
 # **About Me**
 
+<!-- <img src="/assets/img/ta_award.jpg" alt="TA Award" style="width:30%;"> -->
+
 Hi I am **{{ site.author.name }}** :wave:,<br>
 I am currently a MSc Student at Seoul National University, Seoul, South Korea.
 Im working as a graduate researcher at the Biorobotics Lab, Seoul National University led by Prof. Kyujin Cho.
