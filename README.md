@@ -1,20 +1,11 @@
-# Hydejack Starter Kit
+<div align="center">
+  <h1>portfolYOU</h1>
+  <i>A beautiful portfolio Jekyll theme that works with GitHub Pages.</i>
 
-A quicker, cleaner way to get started blogging with [Hydejack](https://hydejack.com/).
+  <a href="https://yousinix.github.io/portfolYOU/">Live Demo</a>
+  •
+  <a href="https://yousinix.github.io/portfolYOU/docs/">Documentation</a>
 
-## Quick Start
-### Running locally
-1. Clone repository (git users), or [download] and unzip.
-2. Open terminal, `cd` into root directory (where `_config.yml` is located)
-3. Run `bundle install` [^1]
-4. Run `bundle exec jekyll serve`
-5. Open <http://localhost:4000/hydejack-starter-kit/>
-
-## What's next?
-* Open files and read the comments
-* Read the [docs](https://hydejack.com/docs/)
-* Buy the [PRO version](https://hydejack.com/download/) to get the project and resume layout, newsletter subscription box, custom forms, and more.
-
-[^1]: Requires Bundler. Install with `gem install bundler`.
-
-[download]: https://github.com/hydecorp/hydejack-starter-kit/archive/master.zip
+  <a href="https://yousinix.github.io/portfolYOU"><img src="screenshot.gif"></a>
+  <sub><sup>© 2024 portfolYOU, licensed under the <a href="./LICENSE">MIT License</a>.</sup></sub>
+</div>
