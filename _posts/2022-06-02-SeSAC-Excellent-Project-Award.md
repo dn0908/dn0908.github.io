@@ -7,3 +7,5 @@ description: Awarded as an Excellent Project during the Seoul Software Academy f
 ---
 
 We  proposed  an  unmanned  water  rescue  system software integrated in real harware platform.
+
+<img src="/assets/img/sesac.png" alt="HMG_2" style="width:100%;">

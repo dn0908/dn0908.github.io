@@ -1,17 +1,18 @@
 ---
 name: Arduino Quadcopter Project
 tools: [hmm]
-image: "/assets/img/multiwii.jpg"
-description: sgjwsogjiwsjf
+image: "/assets/img/drone.png"
+description: Built a Arduino-based Quadcopter and PID Loop control for hovering
+section: undergraduate-projects
 ---
 
 ## Arduino-based Quadcopter Project
 ### ㅤ
 Multiwii – open-source SW
-HW specifications
-DX6e + Multiwii + Arduino Nano
-QAV250 frame
-GY86 sensor (MPU6050+, GPS Module, BLDC , ESC(Emax-Simon))
+- HW specifications
+- DX6e + Multiwii + Arduino Nano
+- QAV250 frame
+- GY86 sensor (MPU6050+, GPS Module, BLDC , ESC(Emax-Simon))
 
 <iframe
   width="100%" height="400"

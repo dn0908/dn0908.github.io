@@ -3,6 +3,7 @@ name: Theo Jansen Autonomous Robot
 tools: [Mechanism Design, Lane Detection, Cascade Classifier]
 image: "/assets/img/theojansen.png"
 description: Designed and Developed Autonomous Legged Robot using Theo Jansen Linkage
+section: undergraduate-projects
 ---
 
 ## Autonomous Legged Robot using Theo Jansen Linkage
