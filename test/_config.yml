@@ -16,7 +16,7 @@ nav_exclude:
 
 ### Author Info ###
 author:
-  name              : YRN
+  name              : Diana Nam
   image             : https://avatars2.githubusercontent.com/u/41103290
   github            : yousinix
 
@@ -24,8 +24,8 @@ author:
 ### Posts ###
 permalink: /blog/:title
 
-disqus:
-  shortname: your-disqus-shortname
+# disqus:
+#   shortname: your-disqus-shortname
 
 ### Collections ###
 collections:
@@ -40,17 +40,17 @@ collections:
 analytics:
   enabled: true
   google:
-    tracking_id: google-tracking-id
+    tracking_id: G-D8Z1FMKTF8
 
 
-### Buy me a coffee ###
-# See https://www.buymeacoffee.com/
-buymeacoffee:
-  enabled: false
-  username: your_username
-  color: "#007bff"
-  message: "Thank you for visiting."                    # Message to be displayed aside from the button for a few seconds.
-  description: "Support me on Buy me a coffee!"
+# ### Buy me a coffee ###
+# # See https://www.buymeacoffee.com/
+# buymeacoffee:
+#   enabled: false
+#   username: your_username
+#   color: "#007bff"
+#   message: "Thank you for visiting."                    # Message to be displayed aside from the button for a few seconds.
+#   description: "Support me on Buy me a coffee!"
 
 
 ### Defaults for collections ###

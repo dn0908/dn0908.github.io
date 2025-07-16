@@ -1,22 +1,16 @@
-
 <div class="card-columns m-3 mt-5">
 
-  <!-- Remote Projects -->
+  <!-- Remote Projects (if using) -->
   {% for remote_project in page.remote_projects %}
-
     {%- for repo in site.github.public_repositories -%}
-
       {%- if remote_project == repo.name -%}
-
         {%- assign project = repo -%}
         {%- assign words = project.name | split: '-' -%}
-        
         {%- capture titlecase -%}
           {%- for word in words -%}
             {{ word | capitalize | append: ' ' }}
           {%- endfor -%}
         {%- endcapture -%}
-
         {%- assign project_type  = "remote" -%}
         {%- assign project_id    = project.name -%}
         {%- assign project_img   = false -%}
@@ -25,25 +19,24 @@
         {%- assign project_url   = project.html_url -%}
         {%- assign project_tools = project.topics -%}
         {%- assign external      = true -%}
-
         {% include projects/project-card.html %}
-
       {%- endif -%}
-
     {%- endfor -%}
-
   {% endfor %}
 
-  <!-- Local Projects -->
-  {% for project in site.projects %}
+</div>
 
+<!-- Graduate Research -->
+<h2 class="mt-5">Research</h2>
+<div class="card-columns m-3">
+  {% assign grad = site.projects | where: "section", "graduate-research" %}
+  {% for project in grad %}
     {%- assign project_type  = "local" -%}
     {%- assign project_id    = project.name | slugify -%}
     {%- assign project_img   = project.image -%}
     {%- assign project_name  = project.name -%}
     {%- assign project_desc  = project.description -%}
     {%- assign project_tools = project.tools -%}
-
     {%- if project.external_url -%}
       {%- assign project_url = project.external_url -%}
       {%- assign external    = true -%}
@@ -51,9 +44,50 @@
       {%- assign project_url = project.url | relative_url -%}
       {%- assign external    = false -%}
     {%- endif -%}
-
     {% include projects/project-card.html %}
-
   {% endfor %}
+</div>
 
+<!-- Work Experience -->
+<h2 class="mt-5">Work Experience</h2>
+<div class="card-columns m-3">
+  {% assign work = site.projects | where: "section", "work-experience" %}
+  {% for project in work %}
+    {%- assign project_type  = "local" -%}
+    {%- assign project_id    = project.name | slugify -%}
+    {%- assign project_img   = project.image -%}
+    {%- assign project_name  = project.name -%}
+    {%- assign project_desc  = project.description -%}
+    {%- assign project_tools = project.tools -%}
+    {%- if project.external_url -%}
+      {%- assign project_url = project.external_url -%}
+      {%- assign external    = true -%}
+    {%- else -%}
+      {%- assign project_url = project.url | relative_url -%}
+      {%- assign external    = false -%}
+    {%- endif -%}
+    {% include projects/project-card.html %}
+  {% endfor %}
+</div>
+
+<!-- Undergraduate Projects -->
+<h2 class="mt-5">Projects</h2>
+<div class="card-columns m-3">
+  {% assign undergrad = site.projects | where: "section", "undergraduate-projects" %}
+  {% for project in undergrad %}
+    {%- assign project_type  = "local" -%}
+    {%- assign project_id    = project.name | slugify -%}
+    {%- assign project_img   = project.image -%}
+    {%- assign project_name  = project.name -%}
+    {%- assign project_desc  = project.description -%}
+    {%- assign project_tools = project.tools -%}
+    {%- if project.external_url -%}
+      {%- assign project_url = project.external_url -%}
+      {%- assign external    = true -%}
+    {%- else -%}
+      {%- assign project_url = project.url | relative_url -%}
+      {%- assign external    = false -%}
+    {%- endif -%}
+    {% include projects/project-card.html %}
+  {% endfor %}
 </div>

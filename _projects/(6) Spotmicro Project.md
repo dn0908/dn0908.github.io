@@ -1,12 +1,14 @@
 ---
 name: Spot-micro Quadruped Robot
 tools: [hmm]
-image: "/assets/img/spotmicro_1.jpg"
+image: "/assets/img/spotmicro.png"
 description: Spot micro open source based Quadruped Robot project
+section: undergraduate-projects
 ---
 ## Spot-micro Quadruped Robot Project
 ### ㅤ
-Based on open source cad files with some minor edits, what did we do...
+During my undergraduate years, as a part of the robotics club activity, me and my teammates built a quadruped robot based on the open source "Spot-micro".
+
 
 <iframe
   width="100%" height="400"

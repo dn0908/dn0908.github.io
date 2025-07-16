@@ -1,9 +1,8 @@
 - title: Graduate Researcher - Biorobotics Lab, Seoul National University
   from: 2023
   to: Present
-  description: What should I write here 
-               # IMU-based robotic hip exoskeleton control system with human-in-the-loop optimization.
-               # Simulation and LQR-based controller for quasi-direct drive jumping-driving robot.
+  description: IMU-based robotic hip exoskeleton control system with human-in-the-loop optimization.
+               Simulation and LQR-based controller for quasi-direct drive jumping-driving robot.
 
 - title: Vex Robotics Instructor - Beyond Coding
   from: 2024
