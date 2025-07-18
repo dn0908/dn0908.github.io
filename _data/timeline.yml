@@ -1,32 +1,35 @@
 - title: Graduate Researcher - Biorobotics Lab, Seoul National University
   from: 2023
   to: Present
-  description: IMU-based robotic hip exoskeleton control system with human-in-the-loop optimization.
-               Simulation and LQR-based controller for quasi-direct drive jumping-driving robot.
+  description: >
+               • IMU-based robotic hip exoskeleton control system with human-in-the-loop optimization. <br>
+               • Simulation and LQR-based controller for quasi-direct drive jumping-driving robot.
 
 - title: Vex Robotics Instructor - Beyond Coding
   from: 2024
   to: 2024
-  description: Instructed VEX Robotics.
+  description: • Instructed elementary school students in robotics and programming using the VEX Robotics kit.
 
 - title: Undergraduate Researcher - Soft Computing Lab, Yonsei University School of Computing
   from: 2023
   to: 2023
-  description: Autonomous anomaly detection robot in manufacturing using multimodal DNN.
-               In-vehicle noise classification by ProtoNet-based few-shot learning and dynamic memory replay.
+  description: >
+               • Autonomous anomaly detection robot in manufacturing using multimodal DNN.  <br>
+               • In-vehicle noise classification by ProtoNet-based few-shot learning and dynamic memory replay.
 
 - title: Research Intern - Center for Healthcare Robotics, Korea Institude of Science and Technology (KIST)
   from: 2022
   to: 2022
-  description: Vision-based complete blood count algorithm using image processing and deep learning.
-               Biological value estimation using optical microscope ray simulation and blood cell modeling.
+  description: > 
+               • Vision-based complete blood count algorithm using image processing and deep learning. <br>
+               • Biological value estimation using optical microscope ray simulation and blood cell modeling.
 
 - title: Intern - Hyundai Motors Group
   from: 2022
   to: 2022
-  description: Robotics system software architecture development and patent assetization in HMGICS.
+  description: • Robotics system software architecture development and patent assetization in HMGICS.
 
 - title: Undergraduate Research Intern - Manufacturing and Mechatronics Lab, Yonsei University
   from: 2022
   to: 2023
-  description: Feedback control system of hardware-twin robot arm by two-way remote communication.
+  description: • Feedback control system of hardware-twin robot arm by two-way remote communication.

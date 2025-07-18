@@ -6,4 +6,6 @@ description: Self-driving project using turtlebot 3.
 section: undergraduate-projects
 ---
 
-## fill this shit
+## Turtlebot Self-driving Project
+### ㅤ
+During my undergraduate years, as a part of the robotics club activity, me and my teammates did a self-driving project using the robot Turtlebot from ROBOTIS.
