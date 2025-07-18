@@ -1,6 +1,6 @@
 ---
 name: Vision based Complete Blood Count Software
-tools: [hmm]
+tools: [Computer Vision, Regression Model, Optic Simulation]
 image: "/assets/img/cbc.png"
 description: Corpuscular Volume Estimation Using a Small Amount of Blood via Microscope Images
 section: graduate-research

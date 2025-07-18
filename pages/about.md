@@ -7,7 +7,7 @@ weight: 1
 
 # **About Me**
 
-<!-- <img src="/assets/img/spot_hi.jpg" alt="TA Award" style="width:30%;"> -->
+<img src="/assets/img/me.png" alt="aboutme" style="width:100%;">
 
 Hi I am **{{ site.author.name }}** :wave:,<br>
 I am currently a MSc Student at Seoul National University, Seoul, South Korea since 2024.

@@ -1,6 +1,6 @@
 ---
 name: Intern at Hyundai Motors Group
-tools: [Research]
+tools: [Robot Automation, Smart Factory]
 image: "/assets/img/hmgcard.jpg"
 description: Intern at the S Innovation Progress Team at the Headquarters
 section: work-experience
