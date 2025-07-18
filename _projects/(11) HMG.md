@@ -15,3 +15,4 @@ During my internship, I developed robot software architecture for the smart fact
 <img src="/assets/img/hmg_final.jpg" alt="HMG_2" style="width:100%;">
 
 I was able to work with Boston Dynamics' Spot robot and had various experience inside and outside the company!
+<img src="/assets/img/hmg2.jpg" alt="HMG_2" style="width:100%;">

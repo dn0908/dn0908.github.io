@@ -1,9 +1,9 @@
 ---
-name: what?
+name: (Under construction 🚔)
 tools: [hmm]
 image: 
-description: what should i write here
+description: Building the contents for my graduate researches
 section: graduate-research
 ---
 
-# f
+## Im still building this page... Sorry!
