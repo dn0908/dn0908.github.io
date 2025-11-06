@@ -6,6 +6,7 @@ weight: 4  # Adjust to control navbar order
 ---
 ### ㅤ
 ## Journal Articles
+- **[J.5]** **<u>Dahyun Nam</u>**, Wonseok Choi, Jinsoo Kim, Kyujin Cho (2025). **_GramSuit: A Sub-1-kg Soft Exosuit with Differential Tendon-Driven Hip Assistance_** (In preparation)
 
 - **[J.4]** Seung-Hyun An, **<u>Dahyun Nam</u>**, Kyujin Cho (2025). **_A Small-Scale Wheeled Robot Capable of Continuous Quasi-Direct-Drive Jumping._** (In preparation)
 

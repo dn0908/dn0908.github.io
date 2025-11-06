@@ -1,6 +1,6 @@
 ---
 name: Spot-micro Quadruped Robot
-tools: [hmm]
+tools: [Legged Locomotion, Mobile Robot, ROS1]
 image: "/assets/img/spotmicro.png"
 description: Spot micro open source based Quadruped Robot project
 section: undergraduate-projects

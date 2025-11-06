@@ -22,11 +22,11 @@
 
   <meta property="og:type" content="website">
   <meta property="og:title" content="Underactuated Hip Exosuit Control">
-  <meta property="og:description" content="Building the contents for my graduate researches">
-  <meta property="og:image" content="/assets/img/img.GIF">
+  <meta property="og:description" content="Ultralightweight hip assistant robot and Human-in-the-loop Control Parameter Optimization">
+  <meta property="og:image" content="/assets/img/uhe.png">
 
   <title>Underactuated Hip Exosuit Control</title>
-  <meta name="description" content="Building the contents for my graduate researches">
+  <meta name="description" content="Ultralightweight hip assistant robot and Human-in-the-loop Control Parameter Optimization">
 
   <link rel="shortcut icon" type="image/x-icon" href="/assets/favicon.ico">
 
@@ -78,14 +78,21 @@
 
 </nav>
     <div class="col-lg-10 mx-auto mt-5 markdown-body">
-  <p>(This project is currently under preparation for publication and patent registration; therefore, some robot-related materials cannot be disclosed.)</p>
-<h3 id="ㅤ">ㅤ</h3>
+  <p>(This project is currently under preparation for publication and patent registration; therefore, some robot-related materials cannot be disclosed. Please email me for further information!)</p>
+<h6 id="ㅤ">ㅤ</h6>
 <h2 id="underactuated-hip-exosuit">Underactuated Hip Exosuit</h2>
-<h3 id="ㅤ-1">ㅤ</h3>
-<p>During my graduate research at Biorobotics Lab SNU, we developed an underactuated hip assistant soft wearable robot. This robot is able to assist 4 torques(Left flextion, Left extension, Right flextion, Right extension) using a single motor by differential mechanism. The Robot uses 2 IMU sensors for gait estimation and the system is integrated using ROS2.</p>
-
+<h6 id="ㅤ-1">ㅤ</h6>
+<p>During my graduate research at Biorobotics Lab SNU, we developed an underactuated hip assistant soft wearable robot. This robot is able to assist 4 torques(Left flextion, Left extension, Right flextion, Right extension) using a single motor by differential mechanism. The Robot uses 2 IMU sensors for gait estimation and the system is integrated using ROS2.
+<img src="/assets/img/uhe_overview.png" alt="UHE-Robot" style="width:80%;" /></p>
+<h6 id="ㅤ-2">ㅤ</h6>
 <h3 id="what-i-did-"><strong>What I Did :</strong></h3>
-<h5 id="lightweight-controller"><strong>Lightweight Controller</strong></h5>
+<h5 id="1-lightweight-controller"><strong>1. Lightweight Controller</strong></h5>
+<p>I designed a custom IO board using Raspberrypi Compute Module 5 for the robot’s control. 
+<img src="/assets/img/uhe_controller.png" alt="UHE-Controller" style="width:80%;" /></p>
+<h6 id="ㅤ-3">ㅤ</h6>
+<h5 id="2-human-in-the-loop-optimization"><strong>2. Human-in-the-loop Optimization</strong></h5>
+<p>I implemented a ROS2-based controller and applied CMA-ES–based Human-in-the-loop optimization to automatically tune assistance parameters for each user. The system connected MATLAB with the controller via wireless communication, enabling automated experiment execution and real-time metabolic cost evaluation.
+<img src="/assets/img/hilo.png" alt="UHE-Hilo" style="width:80%;" /></p>
 
 </div>
   </main>

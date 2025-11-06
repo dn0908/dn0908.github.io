@@ -1,6 +1,6 @@
 ---
 name: Turtlebot Self-driving Project
-tools: [hmm]
+tools: [Autonomous Driving, SLAM, ROS1]
 image: "/assets/img/turtle.png"
 description: Self-driving project using turtlebot 3.
 section: undergraduate-projects

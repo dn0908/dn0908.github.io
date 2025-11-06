@@ -1,6 +1,6 @@
 ---
 name: Arduino Quadcopter Project
-tools: [hmm]
+tools: [Quadcopter, PID Control, Arduino]
 image: "/assets/img/drone.png"
 description: Built a Arduino-based Quadcopter and PID Loop control for hovering
 section: undergraduate-projects
