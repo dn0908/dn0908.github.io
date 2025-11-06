@@ -6,4 +6,4 @@ color: light
 description: Yonsei University College of Engineering
 ---
 
-Silicon Valley is a magical place with some strange norms—perhaps because companies, careers, and fortunes rise and fall with such astoundin
+We proposed the robot to the Creative Design Competition run by Yonsei University College of Engineering and was awarded as the Grand Prize for the Project.
