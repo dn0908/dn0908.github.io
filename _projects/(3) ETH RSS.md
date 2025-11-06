@@ -1,6 +1,6 @@
 ---
 name: ETH Zurich Robotics Summer School
-tools: [SLAM]
+tools: [SLAM, ROS2]
 image: "/assets/img/ethzurich.png"
 description: Search and rescue exploration challenge.
 section: undergraduate-projects
