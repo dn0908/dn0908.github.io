@@ -5,12 +5,14 @@ permalink: /publications/
 weight: 4  # Adjust to control navbar order
 ---
 ### ㅤ
+## Under Review / In Preparation
+- **[P.2]** **<u>Dahyun Nam</u>**, Wonseok Choi, et al. **_Gram-Suit: A Sub-1 kg Soft Hip Exosuit with Extension-Dominant Bidirectional Assistance via a Single-Motor Differential Mechanism._** Science Robotics (Under Review)
+
+- **[P.1]** Jin-Hee Lee, **<u>Dahyun Nam</u>**, Robin Inho Kee, YoungKey Kim, Seok-Jun Buu. [**_Vision-Ultrasound Robotic System based on Deep Learning for Gas and Arc Hazard Detection in Manufacturing._**](https://arxiv.org/abs/2502.05500) Engineering Applications of Artificial Intelligence (Under Review) Equal Contribution (1st Author)
+
+### ㅤ
 ## Journal Articles
-- **[J.5]** **<u>Dahyun Nam</u>**, Wonseok Choi, Jinsoo Kim, Kyujin Cho (2025). **_GramSuit: A Sub-1-kg Soft Exosuit with Differential Tendon-Driven Hip Assistance_** (In preparation)
-
-- **[J.4]** Seung-Hyun An, **<u>Dahyun Nam</u>**, Kyujin Cho (2025). **_A Small-Scale Wheeled Robot Capable of Continuous Quasi-Direct-Drive Jumping._** (In preparation)
-
-- **[J.3]** Jin-Hee Lee, **<u>Dahyun Nam</u>**, Robin Inho Kee, YoungKey Kim, Seok-Jun Buu (2025). [**_Vision-Ultrasound Robotic System based on Deep Learning for Gas and Arc Hazard Detection in Manufacturing._**](https://doi.org/10.48550/arXiv.2502.05500) Expert Systems With Applications (Under Review) Equal Contribution (1st Author)
+- **[J.3]** Seung-Hyun An, Sang-Min Baek, **<u>Dahyun Nam</u>**, et al. (2026). **_Thermally Limited Motor Overdrive for Continuous Quasi-Direct-Drive Jumping in a Small-Scale Wheeled Robot._** Journal of Field Robotics
 
 - **[J.2]** **<u>Dahyun Nam</u>**, Seoyeon Choi, Joonho Ko, Seungjin Kim, Youngeon Ko, Hyeongwoo Nam, Jin Lee, Dae-Eun Kim (2024). [**_Design and Development of an Unmanned Water Rescue Platform with Emergency Detection and Self-inflating Life Jacket Launching Mechanism._**](https://doi.org/10.3795/KSME-C.2024.12.2.057) Trans. Korean Soc. Mech. Eng. C
 

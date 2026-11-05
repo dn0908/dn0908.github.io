@@ -1,10 +1,14 @@
-- name: CAD (Creo, Solidworks, AutoCAD, Fusion360, Onshape, Autodesk Inventor)
+- name: CAD (Creo, Solidworks, AutoCAD, Fusion360, Onshape, Autodesk Inventor, KiCad)
   percentage: 100
   color: info
 
 - name: MATLAB & Simulink
   percentage: 95
-  color: success 
+  color: success
+
+- name: Simulation (Isaac Sim, MuJoCo, Ansys Mechanical, TracePro)
+  percentage: 85
+  color: success
 
 - name: FEMM
   percentage: 70
