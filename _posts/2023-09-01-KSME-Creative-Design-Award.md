@@ -2,19 +2,18 @@
 title: 13th KSME Student Creative Design Competition Excellent Project Award
 tags: [CAD, Emergency Detection, System Design]
 style: fill
-color: light 
-description: Awarded as an Excellent Project in The Korean Society of Mechanical Engineers (KSME) 13th Competition
+color: light
+description: Excellent Project Award at the 13th KSME Student Creative Design Competition
 ---
 
-We  proposed  an  unmanned  water  rescue  robot  with  self-inflating  life  jacket  launching mechanism and emergency detection for efficient rescue operations near rivers and lakes.
+Our team received the **Excellent Project Award** at the 13th Student Creative Design Competition hosted by the Korean Society of Mechanical Engineers (KSME) in September 2023.
 
-Existing rescue devices are difficult to use and requires manual operation. The presented robot integrates an IR camera, a LiDAR, and an object detection machine learning model for effective detection in night and unpopulated environments. Moreover, the system features vertical and horizontal rotation and a pitching machine mechanism that enable precise detection and automatic launching. This system is expected to overcome the limitations of conventional systems and enhance the efficiency of water rescue operatons. You can see the working video of the system in youtube!
+We built an unmanned water rescue robot that detects emergencies and launches self-inflating life jackets, for faster rescues near rivers and lakes.
+
+Existing rescue devices are hard to use and must be operated by hand. Our robot combines an IR camera, a LiDAR and a machine learning object detection model, so it can detect people in the water at night and in places with no one around. It can rotate both horizontally and vertically, and uses a pitching-machine-style launcher to aim and throw the life jacket automatically. You can watch the system working on YouTube!
 
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/03CUmIzoZ04?si=oxhTjqde9j68zvTE" frameborder="0" allowfullscreen></iframe>
 
-We proposed the robot to the 13th Student Creative Design Competition run by The Korean Society of Mechanical Engineers and was awarded as the Excellent Project.
+<img src="/assets/img/ksme.jpg" alt="KSME Award" style="width:100%;">
 
-<img src="/assets/img/ksme.jpg" alt="TA Award" style="width:100%;">
-
-The robot system is also published at the journal Transactions of the KSME C - Industrial Technology and Innovation in september, 2024.
-DOI : 10.3795/KSME-C.2024.12.2.057 
+This work was also published in [Transactions of the KSME C: Industrial Technology and Innovation](https://doi.org/10.3795/KSME-C.2024.12.2.057) in 2024.

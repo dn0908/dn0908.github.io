@@ -3,11 +3,11 @@
   color: info
 
 - name: MATLAB & Simulink
-  percentage: 95
+  percentage: 90
   color: success
 
 - name: Simulation (Isaac Sim, MuJoCo, Ansys Mechanical, TracePro)
-  percentage: 85
+  percentage: 95
   color: success
 
 - name: FEMM

@@ -1,0 +1,21 @@
+# Logos shown under "Research & Industry" on the About page, in this order.
+# The name appears when hovering over a logo.
+- name: Massachusetts Institute of Technology
+  logo: /assets/img/logos/mit.png
+  url: https://meche.mit.edu/
+
+- name: Seoul National University
+  logo: /assets/img/logos/snulogo.png
+  url: https://en.snu.ac.kr/
+
+- name: Yonsei University
+  logo: /assets/img/logos/yonseilogo.svg
+  url: https://me.yonsei.ac.kr/me_en/index.do
+
+- name: Korea Institute of Science and Technology (KIST)
+  logo: /assets/img/logos/kist.jpg
+  url: https://www.kist.re.kr/eng/index.do
+
+- name: Hyundai Motor Group
+  logo: /assets/img/logos/hmg.png
+  url: https://www.hyundaimotorgroup.com/

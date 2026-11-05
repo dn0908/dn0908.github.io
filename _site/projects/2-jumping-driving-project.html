@@ -22,11 +22,11 @@
 
   <meta property="og:type" content="website">
   <meta property="og:title" content="Quasi-Direct-Drive Jumping Robot">
-  <meta property="og:description" content="Continuous Jump Enabled cm-Scale Wheeled Mobile Robot">
+  <meta property="og:description" content="Small-scale wheeled robot capable of continuous jumping">
   <meta property="og:image" content="/assets/img/qdd.png">
 
   <title>Quasi-Direct-Drive Jumping Robot</title>
-  <meta name="description" content="Continuous Jump Enabled cm-Scale Wheeled Mobile Robot">
+  <meta name="description" content="Small-scale wheeled robot capable of continuous jumping">
 
   <link rel="shortcut icon" type="image/x-icon" href="/assets/favicon.ico">
 
@@ -78,19 +78,19 @@
 
 </nav>
     <div class="col-lg-10 mx-auto mt-5 markdown-body">
-  <p>(This project is currently under preparation for publication and patent registration; therefore, some robot-related materials cannot be disclosed. Please email me for further information!)</p>
+  <p>(This work has been accepted to the Journal of Field Robotics. Some materials are not disclosed yet. Please email me for more information!)</p>
 <h6 id="ㅤ">ㅤ</h6>
 <h2 id="quasi-direct-drive-jumping-robot">Quasi-Direct-Drive Jumping Robot</h2>
 <h6 id="ㅤ-1">ㅤ</h6>
-<p>During my graduate research at Biorobotics Lab SNU, we developed an quasi-direct-drive jumping robot that is able to drive with two wheels and jumps over a meter. This robot utilises a single direct-drive actuator for jumping, and differential driving for wheeled locomotion.
+<p>At the Biorobotics Lab, Seoul National University, we developed a small-scale quasi-direct-drive jumping robot that drives on two wheels and jumps over a meter high. It uses a single quasi-direct-drive actuator for jumping and differential drive for wheeled locomotion.
 <img src="/assets/img/qdd_frame.jpg" alt="JumpingRobot-framecap" style="width:65%;" /></p>
 <h6 id="ㅤ-2">ㅤ</h6>
 <h3 id="what-i-did-"><strong>What I Did :</strong></h3>
 <h5 id="1-hardware-design"><strong>1. Hardware Design</strong></h5>
-<p>I designed the jumping module part and custom controller board of the robot. The jumping module part contains rack&amp;pinion mechanism for quasi-direct actuation and the custom controller is ARM Cortex-M7 MCU-based board.</p>
+<p>I designed the jumping module and the robot’s custom controller board. The jumping module uses a rack-and-pinion mechanism for quasi-direct actuation, and the controller board is built around an ARM Cortex-M7 MCU.</p>
 <h6 id="ㅤ-3">ㅤ</h6>
 <h5 id="2-control-implementation"><strong>2. Control Implementation</strong></h5>
-<p>I integrated a Jetson Orin–MCU hierarchical control system on a ROS2 framework, linking the upper and lower controllers via UART communication. I implemented BLDC motor control, IMU filtering, and a two-wheel driving controller, and designed an impedance control strategy to mitigate landing impact. Currently, I am developing an LQR-based attitude stabilization controller to refine a fully integrated simulation–embedded–experimental control system.
+<p>I built a hierarchical Jetson Orin–MCU control system on ROS2, linking the high-level and low-level controllers over UART. I implemented BLDC motor control, IMU filtering and a two-wheel driving controller, and designed an impedance control strategy to reduce landing impact. I also developed an LQR-based attitude stabilization controller, connecting simulation, embedded control and experiments into one pipeline.
 <img src="/assets/img/qdd_sim.png" alt="JumpingRobot-Simexample" style="width:80%;" /></p>
 
 </div>
@@ -102,7 +102,7 @@
     by <strong>Diana Nam</strong>
   </small>
 
-<div class="container-fluid justify-content-center"><a class="social mx-1"  href="mailto:diana_nam@snu.ac.kr"
+<div class="container-fluid justify-content-center"><a class="social mx-1"  href="mailto:diananam@mit.edu"
        style="color: #6c757d"
        onMouseOver="this.style.color='#db4437'"
        onMouseOut="this.style.color='#6c757d'">

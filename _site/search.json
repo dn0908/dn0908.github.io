@@ -1,11 +1,27 @@
 [
   
     {
+      "title"    : "Fulbright U.S.-Korea Presidential STEM Initiative Award",
+      "category" : "",
+      "tags"     : "Fulbright, Scholarship, MIT",
+      "url"      : "/blog/Fulbright-Award",
+      "date"     : "2026-09-01 00:00:00 -0400"
+    } ,
+  
+    {
+      "title"    : "Outstanding MS Thesis Presentation Award",
+      "category" : "",
+      "tags"     : "Award, Thesis, Exoskeleton",
+      "url"      : "/blog/Outstanding-MS-Thesis-Presentation-Award",
+      "date"     : "2025-12-01 00:00:00 -0500"
+    } ,
+  
+    {
       "title"    : "Excellent Teaching Assistant Award",
       "category" : "",
       "tags"     : "Teaching, Arduino, Mobile Manipulator",
       "url"      : "/blog/Excellent-TA-Award",
-      "date"     : "2025-03-13 00:00:00 +0900"
+      "date"     : "2025-03-13 00:00:00 -0400"
     } ,
   
     {
@@ -13,7 +29,7 @@
       "category" : "",
       "tags"     : "CAD, Emergency Detection, System Design",
       "url"      : "/blog/KSME-Creative-Design-Award",
-      "date"     : "2023-09-01 00:00:00 +0900"
+      "date"     : "2023-09-01 00:00:00 -0400"
     } ,
   
     {
@@ -21,7 +37,7 @@
       "category" : "",
       "tags"     : "Continual Learning, Noise Classification, Episodic Memory",
       "url"      : "/blog/SAS-Paper-Award",
-      "date"     : "2022-06-10 00:00:00 +0900"
+      "date"     : "2023-06-10 00:00:00 -0400"
     } ,
   
     {
@@ -29,7 +45,7 @@
       "category" : "",
       "tags"     : "CAD, Emergency Detection, System Design",
       "url"      : "/blog/SeSAC-Excellent-Project-Award",
-      "date"     : "2022-06-02 00:00:00 +0900"
+      "date"     : "2023-06-02 00:00:00 -0400"
     } ,
   
     {
@@ -37,7 +53,7 @@
       "category" : "",
       "tags"     : "CAD, Emergency Detection, System Design",
       "url"      : "/blog/Yonsei-Grand-Prize",
-      "date"     : "2022-06-01 00:00:00 +0900"
+      "date"     : "2023-06-01 00:00:00 -0400"
     } 
   
 ]

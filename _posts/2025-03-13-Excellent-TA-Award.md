@@ -3,16 +3,15 @@ title: Excellent Teaching Assistant Award
 tags: [Teaching, Arduino, Mobile Manipulator]
 style: fill
 color: light
-description: Awarded as an excellent teaching assistant from the Dept. of Mechanical Engineering, Seoul National University.
+description: Excellent Teaching Assistant Award from the College of Engineering, Seoul National University
 ---
 
-I worked as a TA for the Creative Design Engineering [400.018] class 2024 fall semester.
-I built the reference robot (mobile manipulator and its control algorithm) for the class, designed the competition field and independently managed technical TA lectures and QnA sessions.
+In March 2025, I received the **Excellent Teaching Assistant Award** from the College of Engineering, Seoul National University.
+
+I was a TA for the undergraduate course Creative Design Engineering [400.018] in Fall 2024 (and again in Fall 2025). I built the reference robot for the class, a teleoperated mobile manipulator with its control algorithm, designed the competition field, and led the technical TA lectures and Q&A sessions.
 
 
 <img src="/assets/img/ta_award.jpg" alt="TA Award" style="width:30%;">
 
-I was awarded for the excellent teaching assistant from the College Of Engineering, Seoul National University at March 2025.
-
-The robot competition video is uploaded in youtube!
+You can watch the class robot competition on YouTube!
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/3DeRS-AGgY8" frameborder="0" allowfullscreen></iframe>
