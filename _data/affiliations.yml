@@ -4,6 +4,10 @@
   logo: /assets/img/logos/mit.png
   url: https://meche.mit.edu/
 
+- name: Fulbright Program
+  logo: /assets/img/logos/fulbright.png
+  url: https://www.fulbright.or.kr/
+
 - name: Seoul National University
   logo: /assets/img/logos/snulogo.png
   url: https://en.snu.ac.kr/
